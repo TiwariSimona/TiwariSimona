@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Simona Tiwari !
+
 📫 How to reach me: Gmail - tiwarisimona2001@gmail.com ; LinkedIn - https://www.linkedin.com/in/simona-tiwari/
+
+Thanks for landing out here.
 
 <!--
 **TiwariSimona/TiwariSimona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
