@@ -4,6 +4,8 @@
 
 Thanks for landing out here.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
+
 <!--
 **TiwariSimona/TiwariSimona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
