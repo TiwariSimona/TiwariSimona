@@ -4,12 +4,11 @@
 
 Thanks for landing out here.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
 
-<!--
-**TiwariSimona/TiwariSimona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+KNOW ME BETTER !
 
 - 🔭 I’m currently working on self development !
 - 🌱 I’m currently learning new skills.
@@ -17,6 +16,11 @@ Here are some ideas to get you started:
 - 🤔 CSE Undergraduate!
 - 💬 Ask me about anything you feel like!
 - 📫 How to reach me: Gmail - tiwarisimona2001@gmail.com ; LinkedIn - https://www.linkedin.com/in/simona-tiwari/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
