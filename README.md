@@ -1,11 +1,6 @@
-### Hi there 👋 I am Simona Tiwari !
-
-#📫 How to reach me: Gmail - tiwarisimona2001@gmail.com ; LinkedIn - https://www.linkedin.com/in/simona-tiwari/
+ Hi there 👋 I am Simona Tiwari !
 
 Thanks for landing out here.
-
-
-
 
 
 KNOW ME BETTER !
@@ -18,9 +13,5 @@ KNOW ME BETTER !
 - 📫 How to reach me: Gmail - tiwarisimona2001@gmail.com ; LinkedIn - https://www.linkedin.com/in/simona-tiwari/
 
 
-
-
-
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
+
