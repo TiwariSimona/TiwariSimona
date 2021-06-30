@@ -16,4 +16,4 @@ KNOW ME BETTER !
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
 
 ### Top Languages I've Worked on!
-![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vidhi09-tech&layout=compact&theme=chartreuse-dark)
+![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TiwariSimona&layout=compact&theme=light)
