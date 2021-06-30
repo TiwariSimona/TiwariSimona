@@ -13,7 +13,10 @@ KNOW ME BETTER !
 - 📫 How to reach me: Gmail - tiwarisimona2001@gmail.com ; LinkedIn - https://www.linkedin.com/in/simona-tiwari/
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
-
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TiwariSimona&layout=compact&theme=light)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=TiwariSimona)
+
+
