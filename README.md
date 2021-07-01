@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiwarisimona" alt="tiwarisimona" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@tiwarysimona" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwarysimona?logo=twitter&style=for-the-badge" alt="@tiwarysimona" /></a> </p>
-<hr>
-<!--<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/stock-photo/id/432312219">-->
 
+<!--<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/M4H94EkKGsekatv88">-->
 
 - 🔭 I’m currently working on **Self Development**
 
