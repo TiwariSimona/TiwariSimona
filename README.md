@@ -1,4 +1,4 @@
- Hi there 👋 I am Simona Tiwari !
+Hi there 👋 I am Simona Tiwari !
 
 Thanks for landing out here.
 
