@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@tiwarysimona" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwarysimona?logo=twitter&style=for-the-badge" alt="@tiwarysimona" /></a> </p>
 
+<!--<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/stock-photo/id/432312219">-->
+
+
 - 🔭 I’m currently working on **Self Development**
 
 - 📫 How to reach me **tiwarisimona2001@gmail.com**
