@@ -5,7 +5,7 @@
 <h3 align="center">
   I am Simona Tiwari - A passionate developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarisimona&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarisimona" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiwarisimona&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarisimona" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiwarisimona" alt="tiwarisimona" /></a> </p>
 
